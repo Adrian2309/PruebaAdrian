@@ -1,0 +1,2 @@
+En este documento se tienen que especificar la lista de deseos para la aplicación 
+que se quiera construir.
